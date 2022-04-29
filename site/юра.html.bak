@@ -1,0 +1,58 @@
+
+<!doctype html>
+<html>
+<head>
+<meta charset="UFT-8">
+<title>Сайт юры</title>
+<link href="Style.css" rel="stylesheet">
+</head>
+<body>
+<h1>Всем привет,это сайт Юры!</h1>
+<img src="WIN_20220425_19_03_24_Pro.jpg" width="1280"
+height="720">
+<ul>
+<li><a href="#m1">Видео</a></li>
+<li><a href="#m2">Моя игра</a></li>
+<li><a href="#m3">Как связаться</a></li>
+<li><a href="#m4">Мемасы от Юры</a></li>
+</ul>
+<p>Это мой фан сайт!Я его сделал просто по приколу,так что если вы это читаете,то не воспринимайте
+всерьез!</p>
+<p>Я просто обычный школьник которому нефиг делать!Вот и сделал сайт!</p>
+<p>Кстати,я могу вам сделать сайт на заказ!Если надумаете,то обращайтесь ко мне и я вам все сделаю,
+не за бесплатно конешно:)</p>
+<h2>Супермега распаковка моих наушников чееек!</h2>
+<img src="WIN_20220425_20_17_20_Pro.jpg" width="1280"
+height="720">
+<p class="hear">Это мои наушники!Я их прикупил на рынке за 25 ркблей.В них даже есть микрофон,правда
+звук в нем фиговый.Но это и не удивительно,за такие то деньги.В самих ушах звук тоже не блещет 
+качеством,но слушать можно.Короче,всем советую эти уши!</p>
+<h2  id="m1" class="video">Мое видео</h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dxK7_Be20Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vDclvVsOGOc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<h2 id="m3">Как связаться?</h2>
+<p>+79319782725 Пишите в телеге или в вотсапе!</p>
+<h2 id="m2" class="game">Моя игра!</h2>
+<p>Добавление игры на сайт в процессе !!!</p>
+<object>
+<embed width="400px" height="300px" align="" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" name="крестики нолики" quality="high" src="http://mnogoblog2.16mb.com/wp-content/uploads/2012/06/tictactoe.swf">
+<object>
+<h2 id="m4" class="game">Мемасы от Юры подъехали!!!!</h2>
+<h1>Всем спасибо за внимание!!!!</h1>
+<p>Всем спасибо,что посетили мой сайт!Я над ним очень долго работал,
+и мне будет очень приятно если вы его оцените!</p>
+
+
+</body>
+
+
+
+
+
+
+
+
+
+
+
+

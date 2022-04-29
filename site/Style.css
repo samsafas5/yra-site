@@ -1,0 +1,46 @@
+li {display: inline;
+font-size:50px}
+li {margin-right: 10px;
+color:#f2510c}
+
+h1{text-align:center;
+font-size:70px;
+color:#f2db0c;}
+html {
+
+background-image: url(cd494811d5a5edcb3159.jpg);
+
+background-repeat: no-repeat;
+
+background-position: center center;
+
+background-attachment: fixed;
+
+-webkit-background-size: cover;
+
+-moz-background-size: cover;
+
+-o-background-size: cover;
+
+background-size: cover;
+
+}
+p{color:000;
+font-size:30px;
+background-color:#f2d0c2;
+font-family:Impact;}
+h2{color:#f00707;
+font-size:55px;}
+.hear{
+	font-size:30px;
+	background-color:#fff;
+	color:#f7b100;
+font-family:Gadget;}
+.video{font-family:Charcoa;
+color:#f20707;
+font-size:55px;}
+.game{font-family:Courier New;
+color:#36f207;
+font-size:58px;
+background-color:#d7e81a;
+text-align:center;}
